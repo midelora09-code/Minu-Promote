@@ -7,7 +7,7 @@ function orderPackage(packageName, price) {
     let message = "";
 
     if (packageName === 'Permanent Partner') {
-        message = `Hi Minu Promote, I am interested in becoming a Permanent Partner (₹7,999/month). Please share the details!`;
+        message = `Hi Minu Promote, I am interested in becoming a Permanent Partner (₹9,999/month). Please share the details!`;
     } else if (price === 'custom') {
         message = `Hi Minu Promote, I would like to inquire about your video editing and promotional services.`;
     } else {
